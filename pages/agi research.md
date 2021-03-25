@@ -2,4 +2,4 @@
 title: AGI research
 ---
 
-## ## http://www.hutter1.net/
+## http://www.hutter1.net/
